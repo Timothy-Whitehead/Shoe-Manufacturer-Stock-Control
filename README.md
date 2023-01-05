@@ -28,4 +28,9 @@ Then simply open the file and run it.
 
 ## Usage Guide
 ### Main Menu
-!
+![Main Menu](menu1.png)
+The main menu should appear like this, to choose an option mearly type the appropriate abrieviation (e.g."as" or "sp")
+
+### View All Stock
+Type in "as" and press enter to see the full table of stock data.
+It should appear as below.
