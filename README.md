@@ -23,3 +23,9 @@ find high quantity stock items and mark them as "on sale",  find low quantity it
 
 
 ## Installation
+To run this program you will need to have python installed as well as an IDE, SVCode or Pycharm are reccomended.
+Then simply open the file and run it.
+
+## Usage Guide
+### Main Menu
+!
