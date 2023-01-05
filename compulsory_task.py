@@ -158,7 +158,7 @@ ex - exit \n""").lower()
 
         
     elif menu == "sp":
-        seach_shoe(shoe_list)
+        search_shoe(shoe_list)
         
     elif menu == "np":
         capture_shoes()
