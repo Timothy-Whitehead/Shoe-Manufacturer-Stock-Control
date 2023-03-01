@@ -75,5 +75,4 @@ Enter "ex" to exit the program
 ## Credits
 Created by Timothy Whitehead
 
-Created as a project for a Software Engineering Bootcamp run by Hyperion Dev
 
